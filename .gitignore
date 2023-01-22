@@ -1,0 +1,3 @@
+config.txt
+tidak-penting/
+# *.exe = artinya akan mengabaikan semua file yang extensinya .exe
